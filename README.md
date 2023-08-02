@@ -14,13 +14,10 @@
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+
 
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Gingesmallfish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Gingesmallfish's github stats](https://github-readme-stats.vercel.app/api?username=Gingesmallfish&show_icons=true&theme=vue)
 
-
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gingesmallfih&repo=hexo-theme-butterfly&theme=tokyonight)](https://github.com/Gingesmallfish/Gingesmallfish.github.io/hexo-theme-butterfly)
