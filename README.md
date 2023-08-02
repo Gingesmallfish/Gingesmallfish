@@ -6,17 +6,15 @@
 
 ### **技术栈**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./img/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./img/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./img/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./img/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./img//webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./img/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./img/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./img/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./img/golang.png"></code></a>
-
- <img align="right" alt="GIF" src="./img/code.gif" width="400" height="100%" />
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 
 ### Github 活跃度
 
