@@ -22,3 +22,5 @@
 ![Gingesmallfish's github stats](https://github-readme-stats.vercel.app/api?username=Gingesmallfish&show_icons=true&theme=vue)
 
 
+### 开源项目
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gingesmallfih&repo=hexo-theme-butterfly&theme=tokyonight)](https://github.com/Gingesmallfish/Gingesmallfish.github.io/hexo-theme-butterfly)
