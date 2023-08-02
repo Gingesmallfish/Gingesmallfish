@@ -5,7 +5,7 @@
 热爱前端, 热爱技术。实习经验半年多。喜欢参与一些开源项目的讨论
 
 ### **技术栈**
-<img align="right" alt="GIF" src="./img/code.gif" width="400" height="100%" />
+<img align="right" alt="GIF" src="./img/code.gif" width="400" height="400" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
