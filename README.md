@@ -16,7 +16,7 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./img/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./img/golang.png"></code></a>
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./img/code.gif" width="430" height="100%" />
 
 ### Github 活跃度
 
