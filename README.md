@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="GIF" src="./img/code.gif" width="300px" height="100%" />
+<img align="right" alt="GIF" src="./img/code.gif" width="380px" height="100%" />
 
 
 
