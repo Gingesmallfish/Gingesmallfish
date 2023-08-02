@@ -21,5 +21,5 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Gingesmallfish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Gingesmallfish's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![Gingesmallfish's github stats](https://github-readme-stats.vercel.app/api?username=Gingesmallfish&show_icons=true&theme=vue)
 
