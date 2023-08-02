@@ -23,4 +23,4 @@
 
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Gingesmallfih&repo=hexo-theme-butterfly&theme=tokyonight)](https://github.com/Gingesmallfish/Gingesmallfish.github.io/hexo-theme-butterfly)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Gingesmallfish&repo=mp4To4K-rust)](https://github.com/Gingesmallfish/Gingesmallfish.github.io)
