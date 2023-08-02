@@ -22,3 +22,4 @@
 [![](https://activity-graph.herokuapp.com/graph?username=Gingesmallfish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Gingesmallfish's github stats](https://github-readme-stats.vercel.app/api?username=Gingesmallfish&show_icons=true&theme=vue)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
