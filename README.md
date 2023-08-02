@@ -5,7 +5,7 @@
 热爱前端, 热爱技术。实习经验半年多。喜欢参与一些开源项目的讨论
 
 
-<img align="right" alt="GIF" src="./img/code.gif" width="400" height="400px" />
+<img align="right" alt="GIF" src="./img/code.gif" width="430" height="100%" />
 
 
 
